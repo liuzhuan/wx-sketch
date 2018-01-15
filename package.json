@@ -1,0 +1,23 @@
+{
+  "name": "wx-sketch",
+  "version": "1.0.0",
+  "description": "`wx-sketch` 是一个基于微信小程序的前端绘制工具。利用它可用绘制图形，绘制图像，并提供了保存至相册的功能。",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuzhuan/wx-sketch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuzhuan/wx-sketch/issues"
+  },
+  "homepage": "https://github.com/liuzhuan/wx-sketch#readme",
+  "devDependencies": {
+    "rollup": "^0.54.0"
+  }
+}
