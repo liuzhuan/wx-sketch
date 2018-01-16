@@ -20,7 +20,7 @@
 }
 ```
 
-将 `wx-sketch.min.js` 拷贝到本地文件夹，然后引入：
+将 `dist/wx-sketch.js` 拷贝到本地文件夹，然后引入：
 
 ```js
 import Sketch from './wx-sketch.js'

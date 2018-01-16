@@ -4,6 +4,7 @@
   "description": "`wx-sketch` 是一个基于微信小程序的前端绘制工具。利用它可用绘制图形，绘制图像，并提供了保存至相册的功能。",
   "main": "index.js",
   "scripts": {
+    "dev": "rollup -c -w",
     "build": "rollup -c"
   },
   "repository": {
