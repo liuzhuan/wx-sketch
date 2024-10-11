@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/liuzhuan/wx-sketch#readme",
   "devDependencies": {
-    "rollup": "^0.54.0"
+    "rollup": "4.22.4"
   }
 }
